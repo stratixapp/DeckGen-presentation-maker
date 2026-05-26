@@ -1,0 +1,6 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "Generate, edit, and present beautiful PowerPoint slides automatically using AI or custom outlines, and export directly to PPTX format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
